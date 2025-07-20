@@ -17,8 +17,8 @@ Download DINOv2 checkpoint and revise `/configs/anydoor.yaml` for the path (line
 
 Create a `checkpoint` folder and put the checkpoints of `dinov2` and `anydoor` into it.
 ```bash
-Asus_general/checkpoint/dinov2_vitg14_pretrain.pth
-Asus_general/checkpoint/epoch=1-step=8687.ckpt
+./checkpoint/dinov2_vitg14_pretrain.pth
+./checkpoint/epoch=1-step=8687.ckpt
 ```
 
 ## Inference
