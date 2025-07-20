@@ -22,11 +22,7 @@ Asus_general/checkpoint/epoch=1-step=8687.ckpt
 ```
 
 ## Inference
-### Gradio demo
-```bash
-python run_gradio_demo.py
-```
-### Batch generation
+
 ```bash
 python run_inference.py
 ```
