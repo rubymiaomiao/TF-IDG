@@ -1,4 +1,4 @@
-# TF-IDG: Training-Free Industrial Defect Generation with Diffusion Models
+# TF-IDG: Training-Free Industrial Defect Generation with Diffusion Models (coming soon)
 ## Environment
 ```bash
 Python=3.8.5 , torch==2.0.0
