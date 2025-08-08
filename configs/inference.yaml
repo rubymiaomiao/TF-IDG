@@ -1,0 +1,6 @@
+pretrained_model: ./checkpoint/epoch=1-step=8687.ckpt
+config_file: configs/anydoor.yaml
+save_memory: False
+use_interactive_seg: False
+#./checkpoint/epoch=1-step=8687-pruned.ckpt
+#./checkpoint/epoch=1-step=8687.ckpt
