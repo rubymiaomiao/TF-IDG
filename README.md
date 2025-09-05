@@ -1,4 +1,5 @@
-# TF-IDG: Training-Free Industrial Defect Generation with Diffusion Models (ICCV 2025)
+# [TF-IDG: Training-Free Industrial Defect Generation with Diffusion Models (ICCV 2025)](https://iccv.thecvf.com/virtual/2025/poster/27)
+
 ## Environment
 ```bash
 Python=3.8.5 , torch==2.0.0
