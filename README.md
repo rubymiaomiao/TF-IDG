@@ -27,4 +27,4 @@ Create a `checkpoint` folder and put the checkpoints of `dinov2` and `anydoor` i
 ```bash
 python run_inference.py
 ```
-## Generated Dataset (coming soon)
+
